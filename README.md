@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi there 👋 EN
+- 🔭 I'm currently working on a universal gateway for the Telegram and VK APIs.
+- 📫 How to reach me: me@lifecodev.ru
+## Всем привет👋 RU
+- 🔭 Сейчас я работаю над универсальным шлюзом для API Telegram и VK
+- 📫 Как связаться со мной: me@lifecodev.ru
 <!--
 **lifecodev/lifecodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -42,4 +42,4 @@ I am a practitioner of **Stoicism**, which helps me maintain clarity during high
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lifecodev&theme=dark)](https://git.io/streak-stats)
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Lifecodev&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
